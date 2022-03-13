@@ -57,7 +57,7 @@ What's mean the `-d` `--name` and `-p` flags? We’re running the new container 
 
 2. After a few seconds, open your web browser to http://localhost:3000 and http://localhost:3000/nevtik. You should see our app.
 
-&emsp; &emsp; &emsp; &emsp; &emsp; ![1](https://user-images.githubusercontent.com/72386335/158072279-4502f087-7725-43de-a944-1889aaad0efc.png) &emsp; &emsp; &emsp; &emsp; &emsp;
+![1](https://user-images.githubusercontent.com/72386335/158072279-4502f087-7725-43de-a944-1889aaad0efc.png)
 ![2](https://user-images.githubusercontent.com/72386335/158072300-ed9baea0-4e90-4680-8cb2-c026729a550c.png)
 
 
